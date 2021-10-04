@@ -7,9 +7,9 @@ import { LeftSection } from './HeroStyles';
 const Hero = () => (
 <Section row nopadding>
   <LeftSection   >
-    <SectionTitle main center>
+    <SectionTitle main right>
       Bem vindo ao < br / >
-        meu portfoloio pessoal
+        meu portfolio pessoal
     </SectionTitle>
     <SectionText>
       Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de TI desde 2018
