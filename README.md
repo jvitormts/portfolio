@@ -13,6 +13,6 @@ Portfolio pessoal contendo  meus projetos pessoais desenvolvidos ao decorrer da 
 
  - Rode no terminal de sua preferência:
 
-        npm i && npm start
+        npm i && npm run dev
 
 ![Portfolio Website]()
