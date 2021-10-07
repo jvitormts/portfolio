@@ -12,7 +12,7 @@ const Hero = () => (
         meu portfolio pessoal
     </SectionTitle>
     <SectionText>
-      Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de TI desde 2018
+      Olá, me chamo João Vitor Martins, sou formado em Análise de Sistemas e possuo vasta experiência em infraestrutura e suporte e atualmente dando meus primeiros passo na área de Desenvolvimento
     </SectionText>
     <Button href="mail:jvitor.smartins@gmail.com">Acesse meu curriculo </Button>
   </LeftSection>
